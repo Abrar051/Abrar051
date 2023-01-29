@@ -57,3 +57,88 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+- ⚡ Skill Sets : ...
+<html>
+  <head>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background-color: lightgray;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Technology</th>
+        <th>Details</th>
+      </tr>
+      <tr>
+        <td>Programming Languages</td>
+        <td>C, C#, COM, Java, SQL, T-SQL</td>
+      </tr>
+      <tr>
+        <td>Web Technologies</td>
+        <td>
+          ASP .Net, ASP .Net MVC, ADO .Net, HTML4/HTML5, CSS3, JavaScript,
+          jQuery, Bootstrap, Knockout.js, Angular, Node.js, Ajax, JSON, Angular 4/13, XML, XSLT, JSON
+        </td>
+      </tr>
+      <tr>
+        <td>Database</td>
+        <td>MS-Access, MySQL, SQL Server, Oracle, MongoDB</td>
+      </tr>
+      <tr>
+        <td>Framework</td>
+        <td>.Net Framework, MS Unit Test, NUnit</td>
+      </tr>
+      <tr>
+        <td>Version Control</td>
+        <td>TFS, GIT (Git Bash, Git Extensions)</td>
+      </tr>
+      <tr>
+        <td>Web Services & API Gateway</td>
+        <td>ASP .Net Web Services, WCF, Web API, Azure</td>
+      </tr>
+      <tr>
+        <td>Servers</td>
+        <td>Windows Server, IIS, Apache, Tomcat</td>
+      </tr>
+      <tr>
+        <td>Build Tools</td>
+        <td>GitHub, Jenkins, BitBucket</td>
+      </tr>
+      <tr>
+        <td>Web Tools</td>
+        <td>Telerik, DevExpress</td>
+      </tr>
+      <tr>
+        <td>IDE</td>
+        <td>
+          Visual Studio (2013, 2017, 2019), Visual Studio Code, SSMS (2012, 2017, 2019), Eclipse, Notepad++
+        </td>
+      </tr>
+      <tr>
+        <td>Debugging Tools</td>
+        <td>FireBug, Fiddler, Chrome Developer Tools</td>
+      </tr>
+      <tr>
+        <td>Other Tools</td>
+        <td>Soap UI, Postman</td>
+      </tr>
+      <tr>
+        <td>Operating Systems</td>
+        <td>Linux - Ubuntu, Mac OS, Windows</td>
+      </tr>
+    </table>
+  </body>
+</html>
