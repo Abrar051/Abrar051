@@ -6,9 +6,9 @@
 
 <p style="font-size: 22px; font-weight: bold; text-align: center;">Hello there! I'm <span style="color: #0366d6;">Abrar</span>, a software engineer who loves to create innovative solutions using the power of <span style="color: #007acc;">C#</span> and the <span style="color: #007acc;">Asp.Net</span> framework. When I'm not coding, you can find me indulging in computer-aided design. My passion for technology drives me to always push the limits and produce top-notch results. Let's <a href="https://github.com/Abrar051">connect</a> and build something great together!</p>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abrar051&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Abrar051&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Abrar051&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 <br>
 
