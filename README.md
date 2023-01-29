@@ -8,6 +8,7 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abrar051&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
+<br>
 <p style="font-size: 18px; font-weight: bold; text-align: center;">Check out my portfolio to see some of my work:</p>
 <ul style="list-style-type: square; text-align: center;">
   <li><a href="#">Webportal Frontend</a></li>
@@ -21,7 +22,7 @@
 - 🌱 I’m currently learning ... Object oriented programming, Algorithm, Data structure, Data science and machine learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Let's discuss about ... Algorithm
 - 📫 How to reach me: ... Email me > shahriar1410051@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
