@@ -27,6 +27,9 @@
 
 ![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar051&show_icons=true&theme=radical)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar051&langs_count=5&theme=tokyonight)]()
+
+
 - 🔭 I’m currently working on ... Asp.Net, C#, Angular, CAD, Mechatronics, IOT based system, Web Design and Development
 - 🌱 I’m currently learning ... Object oriented programming, Algorithm, Data structure, Data science and machine learning
 - 👯 I’m looking to collaborate on ...
@@ -34,7 +37,7 @@
 - 💬 Let's discuss about ... Algorithm
 - 📫 How to reach me: ... Email me > shahriar1410051@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Technologies : ...
 
 
 <div>
