@@ -7,9 +7,6 @@
 <p style="font-size: 22px; font-weight: bold; text-align: center;">Hi! I'm <span style="color: #0366d6;">Abrar Shahriar</span>, a software engineer with a master's degree in Artificial Intelligence from UWE Bristol. I specialize in building scalable enterprise solutions using <span style="color: #007acc;">.NET Core</span>, <span style="color: #007acc;">Python Flask</span>, and AI-driven automation. From IoT systems to payment gateways and intelligent chatbots, I thrive on solving complex problems with innovative technology. Let's <a href="https://github.com/Abrar051">connect</a> and build something impactful together!</p>
 <br>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Abrar051&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 <br>
 
 ## 🚀 Featured Projects
@@ -20,11 +17,7 @@
 - **Roblox Game Development** - Led cross-functional team to develop commercial game using Lua scripting
 - **IoT Industrial Monitoring** - Real-time sensor data processing with Raspberry Pi and advanced analytics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abrar051&theme=dark&border_radius=5.8)](https://git.io/streak-stats)
 
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar051&show_icons=true&theme=radical)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar051&langs_count=5&theme=tokyonight)]()
 
 ## 💼 Current Focus
 
